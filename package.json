@@ -7,20 +7,20 @@
     "build": "vuepress build",
     "deploy": "vuepress build && sh scripts/deploy.sh"
   },
-  "author": "Vittorio Minacori (@vittominacori)",
+  "author": "Vittorio Minacori (@tiagozhang)",
   "contributors": [
     {
       "name": "Vittorio Minacori",
-      "url": "https://github.com/vittominacori"
+      "url": "https://github.com/tiagozhang"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/token-generator.git"
+    "url": "https://github.com/tiagozhang/token-generator.git"
   },
-  "homepage": "https://github.com/vittominacori/token-generator",
+  "homepage": "https://github.com/tiagozhang/token-generator",
   "bugs": {
-    "url": "https://github.com/vittominacori/token-generator/issues"
+    "url": "https://github.com/tiagozhang/token-generator/issues"
   },
   "license": "MIT",
   "devDependencies": {
